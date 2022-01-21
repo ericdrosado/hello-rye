@@ -1,3 +1,3 @@
 # hello-rye
 
-Hello folks! I'm on the main branch. 
+Hello folks! I'm on the main branch.
